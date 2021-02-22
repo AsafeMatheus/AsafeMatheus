@@ -10,4 +10,4 @@ My name is Asafe Matheus Moraes de Sousa. I was born on February 13th, 2003 in n
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AsafeMatheus&langs_count=10)](https://github.com/AsafeMatheus/github-readme-stats)
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Asafe%20Matheus-6633cc?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/asafe-matheus-moraes-de-sousa)](https://www.linkedin.com/in/asafe-matheus-moraes-de-sousa/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Asafe%20Matheus-6633cc?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/asafe-matheus-moraes-de-sousa-2128b01aa/)](https://www.linkedin.com/in/asafe-matheus-moraes-de-sousa-2128b01aa/) 
