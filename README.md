@@ -1,6 +1,6 @@
 ### Hi there 👋
 ## Who am I?
-My name is Asafe Matheus Moraes de Sousa. I was born on February 13th, 2003 in north of Brazil, I've moved to Santa Catarina when I was 13 years old, and when I was in high school I got interested in programming, so I learned python, which is the first language that I learned. Currently, I'm learning web development. 
+My name is Asafe Matheus Moraes de Sousa. I was born on February 13th, 2003 in north of Brazil, I've moved to Santa Catarina when I was 13 years old, and when I was in high school I got interested in programming, so I learnt python, which is the first language that I learnt. Currently, I'm learning web development. 
 
 
 - 🌱 I’m currently learning mobile development.
